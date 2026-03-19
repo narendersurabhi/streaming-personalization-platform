@@ -9,4 +9,4 @@ spec:
       restartPolicy: Never
       containers:
         - name: training
-          image: streaming-ml-platform-training:latest
+          image: streaming-personalization-platform-training:latest

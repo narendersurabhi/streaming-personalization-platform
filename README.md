@@ -1,4 +1,4 @@
-# streaming-ml-platform
+# streaming-personalization-platform
 
 Production-style Python repository for a two-stage streaming recommendation system inspired by platforms like Disney+, Hulu, ESPN+, and Netflix.
 

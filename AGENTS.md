@@ -1,11 +1,12 @@
 # AGENTS Change Log
 
 ## Repository status
-- Initialized full production-style repository scaffold for `streaming-ml-platform`.
+- Initialized full production-style repository scaffold for `streaming-personalization-platform`.
 - Implemented synthetic data generation, feature engineering, model training, evaluation, local registry, inference service, and FastAPI endpoints.
 - Added containerization, deployment manifests, CI workflow, tests, configs, and docs.
 
 ## Recent changes
+- Renamed repository references from `streaming-ml-platform` to `streaming-personalization-platform` in project metadata, docs, and Kubernetes image names.
 - Added ANN-ready retrieval backend abstraction and sharded retrieval orchestration in inference layer.
 - Added an online feature store module and session-aware reranking inputs in recommendation serving.
 - Expanded monitoring with drift report utilities (PSI + JSD) and online model-performance metrics.
